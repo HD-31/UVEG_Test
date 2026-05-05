@@ -3,7 +3,7 @@ def main_menu():
         print("\n MiniCafe Menu")
         print("1. Sistema de ventas")
         print("2. Reporte")
-        print("3. Salir")
+        print("3. Salir3")
         
         choice = input('Elegir opción:')
         if choice == '1':
