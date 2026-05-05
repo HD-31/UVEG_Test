@@ -10,7 +10,7 @@ def main_menu():
             print(" Bienvenido al sistema de ventas")
             break
         elif choice == '2':
-            print(" Bienvenido al sistema de rporte")
+            print(" Bienvenido al sistema de reporte")
             break
         elif choice == '3':
             print(" Bye")
