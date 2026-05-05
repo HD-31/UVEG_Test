@@ -13,6 +13,6 @@ def main_menu():
             print(" Bienvenido al sistema de reporte")
             break
         elif choice == '3':
-            print(" Bye")
+            print(" Be")
             break
 main_menu() 
