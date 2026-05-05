@@ -3,7 +3,7 @@ def main_menu():
         print("\n Supercafe Menu")
         print("1. Sistema de ventas")
         print("2. Reporte")
-        print("3. Salir3")
+        print("3. Salir")
         
         choice = input('Elegir opción:')
         if choice == '1':
@@ -13,6 +13,6 @@ def main_menu():
             print(" Bienvenido al sistema de reporte")
             break
         elif choice == '3':
-            print(" Be")
+            print(" Bye")
             break
 main_menu() 
