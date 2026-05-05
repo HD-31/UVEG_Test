@@ -3,14 +3,14 @@ def main_menu():
         print("\nMiniCafe Menu")
         print("1. Sistema de ventas")
         print("2. Reporte")
-        print("3. Salir")
+        print("3. Salir4")
         
         choice = input('Elegir opción:')
         if choice == '1':
             print(" Bienvenido al sistema de ventas")
             break
         elif choice == '2':
-            print(" Bienvenido al sistema de reporte")
+            print(" Bienvenido al sistema de rporte")
             break
         elif choice == '3':
             print(" Bye")
