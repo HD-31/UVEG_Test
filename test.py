@@ -1,6 +1,6 @@
 def main_menu():
     while True:
-        print("\n Supercafe Menu")
+        print("\nSupercafe Menu")
         print("1. Sistema de ventas")
         print("2. Reporte")
         print("3. Salir")
