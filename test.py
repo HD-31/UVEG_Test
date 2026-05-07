@@ -2,7 +2,7 @@ def main_menu():
     while True:
         print("\nSupercafe Menu")
         print("1. Sistema de ventas")
-        print("2. Reporte")
+        print("2. Reportes")
         print("3. Salir")
         
         choice = input('Elegir opción:')
